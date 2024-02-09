@@ -1,4 +1,4 @@
-# Intel® Movidius™ Neural Compute SDK
+s# Intel® Movidius™ Neural Compute SDK
 This Intel® Movidius™ Neural Compute software developer kit (NCSDK) is provided for users of the [Intel® Movidius™ Neural Compute Stick](https://developer.movidius.com/) (Intel® Movidius™ NCS). It includes software tools, an API, and examples, so developers can create software that takes advantage of the accelerated neural network capability provided by the Intel Movidius NCS hardware.
 
 # Neural Compute SDK2
@@ -14,7 +14,7 @@ To help you get ready for NCSDK2 you can take a look at some of the [changes in 
 
 To install NCSDK 2.x you can use the following command to clone the ncsdk2 branch
 ```bash 
-git clone -b ncsdk2 https://github.com/movidius/ncsdk.git
+git clone -b ncsdk2 https://github.com/sirbastiano/ncsdk.git
 ```
 Or if you would rather install the legacy NCSDK 1.x you can use the following command to clone as has always been the case
 ```bash 
